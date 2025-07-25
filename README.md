@@ -1,7 +1,7 @@
 # SMART_AGRI_ROVER
 An Arduino Uno-based smart farming solution integrating moisture sensing, flame detection, servo-controlled irrigation, and automated water pumping to optimise crop watering. Includes Bluetooth-controlled vehicle movement via a mobile joystick to enhance farm automation and responsiveness.
 ## Demo Video
-<a href="https://drive.google.com/file/d/1lS3v3zLEF5gMKj5gfEhwvtU1Y9bMLXQP/view?usp=sharing">Click Here to watch a demo video</a>
+<a href="https://drive.google.com/file/d/1lS3v3zLEF5gMKj5gfEhwvtU1Y9bMLXQP/view?usp=sharing">Click Here to watch a demo video</a> <br/>
 <img width="722" height="636" alt="image" src="https://github.com/user-attachments/assets/101e4f60-87ff-4f9c-8f05-156866ef370c" />
 
 ## Introduction
